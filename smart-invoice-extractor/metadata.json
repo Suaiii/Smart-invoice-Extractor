@@ -1,0 +1,5 @@
+{
+  "name": "Smart Invoice Extractor",
+  "description": "Upload PDF invoices or receipt images to automatically generate a structured Student Union style itemized list (Category, Name, Quantity, Price, etc.) using Gemini AI.",
+  "requestFramePermissions": []
+}
